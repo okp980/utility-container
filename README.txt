@@ -1,0 +1,1 @@
+Docker command ==> docker-compose run mynpm npm init
